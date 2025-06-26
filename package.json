@@ -25,13 +25,15 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:prod": "REACT_APP_ENV=production npm run build"
+    "build:prod": "REACT_APP_ENV=production npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=8.0.0"
   },
-  "homepage": "/",
+  "homepage": "https://adityaajuyal.github.io/kitabghar-frontend",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -52,6 +54,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.21",
-    "@types/react-dom": "^18.2.7"
+    "@types/react-dom": "^18.2.7",
+    "gh-pages": "^6.3.0"
   }
 }
