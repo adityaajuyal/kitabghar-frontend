@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kitabghar Frontend - Library Management System
 
 ## 🚀 React Frontend for Library Management System
@@ -342,3 +343,7 @@ For support, email support@kitabghar.com or create an issue on GitHub.
 ---
 
 **Built with ❤️ using React.js**
+=======
+# kitabghar-frontend
+React Frontend for Kitabghar Library Management System
+>>>>>>> 45141f0a074f6f237677fc569bc264d825f58f41
