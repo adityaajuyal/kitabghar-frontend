@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kitabghar-frontend/static/css/main.b8de792a.css",
+    "main.js": "/kitabghar-frontend/static/js/main.29e21dd7.js",
+    "index.html": "/kitabghar-frontend/index.html",
+    "main.b8de792a.css.map": "/kitabghar-frontend/static/css/main.b8de792a.css.map",
+    "main.29e21dd7.js.map": "/kitabghar-frontend/static/js/main.29e21dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8de792a.css",
+    "static/js/main.29e21dd7.js"
+  ]
+}
