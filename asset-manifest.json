@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/kitabghar-frontend/static/css/main.b8de792a.css",
-    "main.js": "/kitabghar-frontend/static/js/main.29e21dd7.js",
-    "index.html": "/kitabghar-frontend/index.html",
-    "main.b8de792a.css.map": "/kitabghar-frontend/static/css/main.b8de792a.css.map",
-    "main.29e21dd7.js.map": "/kitabghar-frontend/static/js/main.29e21dd7.js.map"
+    "main.css": "https://adityaajuyal.github.io/kitabghar-frontend/static/css/main.540af940.css",
+    "main.js": "https://adityaajuyal.github.io/kitabghar-frontend/static/js/main.a37189d4.js",
+    "index.html": "https://adityaajuyal.github.io/kitabghar-frontend/index.html"
   },
   "entrypoints": [
-    "static/css/main.b8de792a.css",
-    "static/js/main.29e21dd7.js"
+    "static/css/main.540af940.css",
+    "static/js/main.a37189d4.js"
   ]
 }
